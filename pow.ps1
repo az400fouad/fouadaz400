@@ -1,2 +1,2 @@
 get-service -name 'spooler'
-get-service
+get-service -name 'service'
